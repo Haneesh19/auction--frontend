@@ -1,5 +1,9 @@
 ## AUCTION PLATFORM MERN   
 
+## comments and errors   
+Email verification function not working because of gmail restrictions.other than that the sold and buyed mail functions are working.     
+
+
 - HOME UI   
 
 <a href="https://ibb.co/ckr6hcZ"><img src="https://i.ibb.co/zQ4XVhB/Screenshot-372.png" alt="Screenshot-372" border="0"></a>   
